@@ -28,17 +28,17 @@ Ming-Chang Yang. My research focuses on using FPGA-based platforms, specifically
 
 * **Write Buffer Strategies for Zoned Namespace SSDs: Lessons from Hardware Verification**  
   <u>Lok Yin Chow</u>, Yingjia Wang, Yuhong Liang, and Ming-Chang Yang  
-  *ACM/IEEE International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES)*, 2026.  
+  *ACM/IEEE International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES)*, 2026    
   *(Journal Track, Integrated with IEEE TCAD)*  
 
 * **Unlocking the Full Potential of Dual-Interface SSDs: A Comprehensive Hardware and Software Perspective**  
   <u>Lok Yin Chow</u>, Yingjia Wang, Yuhong Liang, and Ming-Chang Yang  
-  *ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)*, 2025.  
+  *ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)*, 2025  
   *(Journal Track, Integrated with ACM TECS)*  
 
 * **ZnH2: Augmenting ZNS-based Storage System with Host-Managed Heterogeneous Zones**  
   Yingjia Wang, <u>Lok Yin Chow</u>, Xirui Nie, Yuhong Liang, and Ming-Chang Yang  
-  *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2024
+  *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2024  
 
 ## Teaching {#teaching}
 
