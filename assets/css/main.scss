@@ -37,3 +37,30 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Smooth scrolling for navigation jump links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Prevent fixed header from covering section titles when jumped to */
+section, [id] {
+  scroll-margin-top: 80px;
+}
+
+/* Custom class you can use for dates to make them gray */
+.muted-date {
+  color: #666666;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+.university {
+  font-size: 0.8em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.page__footer-follow {
+  display: none !important;
+}
